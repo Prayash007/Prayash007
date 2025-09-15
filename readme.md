@@ -46,23 +46,6 @@
 
 ---
 
-## 📌 Projects  
-
-### 🔍 Fake Account Detection (SIH 2024)  
-- Built ML-based system to detect fake Instagram/Twitter accounts with **85%+ accuracy**  
-- Tech Stack: React, Zustand, Python, Flask, Jupyter  
-
-### 🚗 Real-Time Parking Spot Reservation  
-- Web app to browse & reserve parking spots with **real-time Firebase sync**  
-- Tech Stack: TypeScript, Supabase, Tailwind, Bootstrap  
-
-### 🤝 Skill Sharing Platform (2025)  
-- Full-stack peer-to-peer platform for **skill exchange**  
-- Features: Real-time matchmaking, rating system, AI chatbot, and admin dashboard  
-- Tech Stack: React, Vite, TypeScript, Tailwind, Supabase  
-
----
-
 ## 🏆 Achievements  
 
 - 🥇 **Smart India Hackathon 2024** – Finalist  
