@@ -11,7 +11,7 @@
 - 🎓 **ECE Undergrad at NIT Raipur (2023–present)** (CGPA: 8.73/10.0)  
 - 💻 **Full-Stack Developer** with experience in React, TypeScript, Supabase, and Firebase  
 - 🔬 **Data Science & ML Enthusiast** with projects in fake account detection & analytics  
-- 🏆 Hackathon and Case Competition finalist (SIH 2024, WWT Unravel 2025, HPCL Power Lab 2025)  
+- 🏆 Hackathon and Case Competition finalist (SIH 2024, WWT Unravel 2025, GE Healthcare PCC '25 , HPCL Power Lab 2025)  
 - 🤝 Open-source contributor (HacktoberFest '24)  
 - 🎯 Strong background in **Competitive Programming** (Codeforces Pupil, 500+ solved problems)  
 
